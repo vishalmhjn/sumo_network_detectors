@@ -3,4 +3,4 @@ This repository contains a (hack) procedure to assign geo-referenced detectors o
 
 Pipeline:
 
-<img src="images/automate_sumo_network_detectors.png"  alt="Detectors in Paris Network" width="300">
+<img src="images/automate_sumo_network_detectors.png"  alt="Detectors in Paris Network" width="500">
